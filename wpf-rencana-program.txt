@@ -3,5 +3,4 @@ rencana program wpf
 -javascript
  *ES8
  *framwork javascript
--php
--python
+-struktur data 
