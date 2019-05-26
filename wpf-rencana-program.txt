@@ -4,3 +4,4 @@ rencana program wpf
  *ES8
  *framwork javascript
 -php
+-python
