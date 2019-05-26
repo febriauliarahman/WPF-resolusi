@@ -2,4 +2,4 @@ WPF-RESOLUSI
 - saya konsisten untuk membuat program hacking untuk kedepannya
 - membuat patfrom untuk pengelolahan program
 - membuat forum diskusi
-- rencana pembuatan program
+- program sudah terbuat
